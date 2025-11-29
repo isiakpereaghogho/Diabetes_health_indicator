@@ -1,0 +1,2 @@
+# Diabetes_health_indicator
+To explore the factors associated with diabetes status (Diabetes_012) and identify key health, lifestyle, demographic, and socioeconomic predictors that may influence the risk of developing diabetes. This analysis aims to understand patterns in health behaviors, chronic conditions, and demographic characteristics that may contribute to diabetes, and to generate insights that can guide prevention and intervention strategies.
