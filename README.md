@@ -154,7 +154,7 @@ Education level (EDUCA see codebook) scale 1-6 1 = Never attended school or only
 Income scale (INCOME2 see codebook) scale 1-8 1 = less than $10,000 5 = less than $35,000 8 = $75,000 or more
 
 **ANALYSIS/RESULTS**
-RESULTS AND INTERPRETATION
+
 The dataset consist of 253680 observations(rows) and 22 variables (columns). There were no missing data. Diabetes status was coded as: 0 = No diabetes, 1 = Pre-diabetes, 2 = Has diabetes. Since the pre-diabetes is not a confirmed diabetes status, I decided to group it as non diabetes group, leaving diabetes to have binary values of 0 (no diabetes) and 1 (diabetes).
 
 Statistical methods used include t-tests and chi-square tests to assess associations and differences across groups.
@@ -234,7 +234,7 @@ Do individuals who have healthcare coverage (AnyHealthcare) and the inability to
 ANSWER: Individuals who have access to healthcare coverage and who have access to see the doctor irrespective of cost tends to have a higher proportion of diabetes prevalence. Our Chi square test and our chart can show the relationship between both variables and diabetes status.
 
 **CONCLUSION**
-CONCLUSION
+
 The analysis provides strong evidence that several lifestyle and demographic factors are associated with diabetes risk in the population. Across all variables, several consistent patterns emerge:
 
 Non-modifiable risk factor:
@@ -263,6 +263,7 @@ Statistical tests (chi-square and t-test) consistently show that these relations
 Overall, both lifestyle and demographic characteristics play important roles in diabetes status.
 
 **TAKE HOME / FURTHER RECOMMENDATION**
+
 Increase Physical Activity: Public health campaigns promoting daily exercise. Workplace and school physical activity programs.
 
 Strengthen Smoking Cessation Programs: Integrate diabetes education into smoking-related health messaging. Provide support to help individuals quit smoking.
@@ -276,4 +277,5 @@ Carefully Interpret Alcohol Results: Do not recommend heavy drinking.Investigate
 Multi-factor Prevention Approach: Diabetes prevention programs should combine: Healthy diet, Physical activity, Weight reduction, Smoking cessation, Age-targeted screening.
 
 **CHALLENGES AND LIMITATIONS OF THIS ANALYSIS**
+
 This analysis faces several challenges, including confounding variables, self-reported behaviour bias, and the inability to establish causal relationships due to the cross-sectional nature of the data. Large sample sizes inflate chi-square significance, and binary coding oversimplifies complex behaviours such as diet and physical activity. Diabetes may also be underreported or undiagnosed. These limitations should be considered when interpreting associations between lifestyle factors and diabetes risk.
